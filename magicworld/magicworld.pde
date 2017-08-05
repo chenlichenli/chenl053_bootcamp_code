@@ -5,7 +5,7 @@ void setup(){
    
   background(255);
     
-  // Load a soundfile from the /data folder of the sketch and play it back
+  // Load a soundfile from the /data folder of mthe sketch and play it back
   //file = new SoundFile(this, "sample.mp3");
     
     println("You are born in a magic dangerous world!");
